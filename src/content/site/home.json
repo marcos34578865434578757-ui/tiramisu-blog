@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "eyebrow": "Tiramisu Blog",
+    "badge": "Personal Build Log",
+    "title": "从代码小白出发，把 AI 建站、界面打磨和内容迭代都留在这里",
+    "intro": "这个站点记录的不是一蹴而就的成品，而是我如何借助 AI 一步步搭结构、改界面、修细节、补内容，再把它慢慢打磨成一个能长期更新的个人作品站。",
+    "primaryCtaLabel": "先看文章",
+    "primaryCtaHref": "/blog",
+    "secondaryCtaLabel": "浏览项目",
+    "secondaryCtaHref": "/projects",
+    "tags": [
+      "AI 建站",
+      "Vibe Coding",
+      "UI 优化",
+      "内容系统",
+      "长期项目",
+      "公开复盘"
+    ],
+    "noteLabel": "Working Note",
+    "noteTitle": "AI 建站成长记录者",
+    "status": "我正在把这个博客打磨成一套既能持续更新、又能稳定承载项目与文章的长期内容站点。",
+    "highlights": [
+      "用真实项目记录 AI 建站过程",
+      "持续复盘界面、结构和交互细节",
+      "把新手视角整理成可复用的方法"
+    ],
+    "stats": [
+      {
+        "label": "主线",
+        "value": "建站 + 内容"
+      },
+      {
+        "label": "节奏",
+        "value": "持续迭代"
+      },
+      {
+        "label": "目标",
+        "value": "长期作品"
+      }
+    ]
+  },
+  "currentFocus": {
+    "eyebrow": "Recent Updates",
+    "title": "最近我在把哪些地方继续推完整",
+    "description": "这里记录我当前最投入的几条主线：页面结构、内容更新、交互细节和上线准备。这个站点会随着这些事情一起慢慢长出来。",
+    "status": "正在把个人博客打磨成一套既能持续更新、又能稳定承载项目与文章的长期内容站点。",
+    "items": [
+      "重构首页的信息层级，让内容和视觉更像真正的作品站。",
+      "梳理 AI 建站过程中可复用的工作流、提示词和迭代方法。",
+      "把做博客站、导航站和上线复盘的经验整理成可公开分享的文章。"
+    ],
+    "updatedAt": "2026-05-06",
+    "badgeLabel": "持续更新中"
+  }
+}

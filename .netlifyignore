@@ -1,0 +1,10 @@
+node_modules
+.next
+.netlify
+.agents
+.specify
+docs/submission
+.codex-*.log
+.next-dev*.log
+*.log
+deploy-*.zip

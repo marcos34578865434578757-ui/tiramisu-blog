@@ -1,0 +1,64 @@
+---
+title: After my first real deployment, I stopped being afraid of shipping
+date: 2026-04-24
+description: Running locally is one thing. Shipping for real is another. This post records the most honest checklist and mistakes from my first deployment.
+category: 工具分享
+tags:
+  - Vercel
+  - Deployment
+  - Launch checklist
+cover: https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80
+readingTime: 6 min read
+featured: false
+---
+
+## What made me nervous was not the deploy command itself
+
+The scary part was not clicking the button.  
+It was the question behind it: what if the production version behaves differently from local development?
+
+Locally, everything feels predictable:
+
+- the data is mine
+- the routes are already in my browser history
+- most assets have already been cached once
+
+But the moment I prepared to ship, the real questions became:
+
+- will the build fail
+- did I miss an environment variable
+- will the first screen throw a strange runtime error
+
+## I ended up building a repeatable launch checklist
+
+Before I deploy now, I run through three layers of checks.
+
+### 1. Run lint and build first
+
+This is the most obvious step, but also the easiest one to skip.  
+If local `lint` and `build` do not pass, production is unlikely to save me.
+
+### 2. Check routes and assets
+
+I make sure:
+
+- cover images and body images load correctly
+- post detail pages and project detail pages both open cleanly
+- dark mode, language switching, and other interactions still behave as expected
+
+### 3. Inspect the live site after deployment
+
+A successful deployment is not the same as a working experience.  
+I still click through the home page, list pages, and detail pages and look for:
+
+- console errors
+- broken images
+- layout shifts
+- interactions that only fail in production
+
+## The biggest mindset change for me
+
+I used to treat “shipping” like a dramatic, advanced milestone.  
+After doing it once, I realized it works better as a reusable process.
+
+When the process is clear, deployment stops feeling like pressure and starts becoming part of the normal rhythm of the project.
