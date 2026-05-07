@@ -1,4 +1,4 @@
-# Tiramisu Blog
+# Marcos Blog
 
 一个基于 `Next.js 16 + App Router + MDX + Tailwind CSS` 的个人博客与作品站项目，用来记录我借助 AI/Agent 建站、整理内容、打磨界面，以及把真实想法慢慢做成长期作品的过程。
 
