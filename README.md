@@ -170,10 +170,6 @@ ADMIN_SESSION_SECRET=
 - 生产地址：[https://marcos-tiramisu-blog.netlify.app](https://marcos-tiramisu-blog.netlify.app)
 - 项目后台：[https://app.netlify.com/projects/marcos-tiramisu-blog](https://app.netlify.com/projects/marcos-tiramisu-blog)
 
-### GitHub
-
-- 目标仓库地址：`https://github.com/marcos34578865434578757-ui/tiramisu-blog`
-- 如果仓库尚未存在，需要先在你的 GitHub 账号下创建同名仓库，或允许本机凭证自动创建后再推送
 
 ## 这个项目在做什么
 
