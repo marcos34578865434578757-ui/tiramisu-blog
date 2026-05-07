@@ -26,7 +26,7 @@ export const postCategoryLabels = {
 export const messages = {
   zh: {
     site: {
-      title: "Tiramisu Blog",
+      title: "Marcos Blog",
       description:
         "一个记录我如何借助 AI 建站、打磨界面、整理内容并持续复盘的个人博客与作品站。",
       ogDescription:
@@ -100,7 +100,7 @@ export const messages = {
         ],
       },
       hero: {
-        eyebrow: "Tiramisu Blog",
+        eyebrow: "Marcos Blog",
         badge: "Personal Build Log",
         title: "从代码小白出发，把 AI 建站、界面打磨和内容迭代都留在这里",
         intro:
@@ -356,7 +356,7 @@ export const messages = {
   },
   en: {
     site: {
-      title: "Tiramisu Blog",
+      title: "Marcos Blog",
       description:
         "A personal blog and portfolio documenting how I build with AI, refine interfaces, and turn experiments into long-term work.",
       ogDescription:
@@ -430,7 +430,7 @@ export const messages = {
         ],
       },
       hero: {
-        eyebrow: "Tiramisu Blog",
+        eyebrow: "Marcos Blog",
         badge: "Personal Build Log",
         title: "Starting as a beginner, leaving every AI build, UI pass, and content iteration here",
         intro:
