@@ -6,8 +6,8 @@ The site keeps content as versioned files in the repository while letting the pr
 
 ## Live Site
 
-- Netlify: [https://marcos-tiramisu-blog.netlify.app](https://marcos-tiramisu-blog.netlify.app)
-- GitHub: [https://github.com/marcos34578865434578757-ui/tiramisu-blog](https://github.com/marcos34578865434578757-ui/tiramisu-blog)
+- Netlify: [https://marcos-blog.netlify.app](https://marcos-tiramisu-blog.netlify.app)
+- GitHub: [[https://github.com/marcos34578865434578757-ui/tiramisu-blog](https://github.com/marcos34578865434578757-ui/Marcos-blog)](https://github.com/marcos34578865434578757-ui/tiramisu-blog)
 
 ## Main Features
 
